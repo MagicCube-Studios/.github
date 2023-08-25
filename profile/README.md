@@ -11,4 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 Hi there! This is MagicCube Studios.
-You can donate for us in (AiFaDian)[afdian.net/a/MagicCube].
+
+You can donate for us in [AiFaDian](afdian.net/a/MagicCube).
